@@ -819,12 +819,6 @@ class MyMath
 }
 
 
-// end of the  project :
-// Programers:(the order was choosen by trusted random function)
-//Georg Elias
-//Bahaa Morad
-//Samer Al_Fakeh
-//Bahar Mhasin
 
 
 
